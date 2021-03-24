@@ -1,1 +1,1 @@
-Test Repo
+First project in the Udemy Ruby on Rails course with Mashrur Hossain.
