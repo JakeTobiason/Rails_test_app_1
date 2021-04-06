@@ -7,6 +7,7 @@ class ArticlesController < ApplicationController
   end
 
   # GET /articles/1 or /articles/1.json
+  # TEST COMMENT
   def show
   end
 
